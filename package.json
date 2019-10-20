@@ -1,0 +1,16 @@
+{
+  "name": "skole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "membership.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algebra.js": "^0.2.6",
+    "expr-eval": "^1.2.0",
+    "js-solver": "0.0.2"
+  }
+}
