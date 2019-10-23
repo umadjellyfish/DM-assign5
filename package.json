@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "algebra": "^1.0.1",
     "algebra.js": "^0.2.6",
-    "expr-eval": "^1.2.0",
+    "expr-eval": "^1.2.3",
     "js-solver": "0.0.2"
   }
 }
